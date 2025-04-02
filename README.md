@@ -103,10 +103,3 @@ O projeto está organizado em **4 pastas principais**:
 3. **Análise de Custo-Benefício**: Comparar custos de FN vs. FP.
 
 ---
-
-
-
-### Recursos Incluídos:
-- **Visualização clara de métricas** em tabelas.
-- **Destaque para decisões de negócio** (impacto financeiro, lift, breve avaliação de ações direcionadas).
-- **Instruções do projeto** para reprodução dos resultados.
